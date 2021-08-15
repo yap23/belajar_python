@@ -1,4 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "sketch": "..\\home_security\\_433MHz_Transmitter\\_433MHz_Transmitter.ino"
-}
