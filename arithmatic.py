@@ -33,6 +33,12 @@ print(a,'//',b,'=',hasil)
 
 
 #Prioritas operasi
+'''
+    1. ()
+    2. exponen **
+    3. perkalian dan teman2 * / ** % //
+    4. Pertambahan dan pengurangan + -
+'''
 x = 3
 y = 2
 z = 4
